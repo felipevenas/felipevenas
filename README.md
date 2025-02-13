@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Felipe Venas Souza, tenho 19 anos e resido em Salvador. Atualmente, estou no quinto semestre de Ciência da Computação na Universidade Jorge Amado e, desde 2021, trabalho de forma autônoma com Design Gráfico e Social Media. Além da parte técnica, valorizo minhas soft skills, como comunicação clara, trabalho em equipe, proatividade na resolução de problemas, organização e adaptabilidade a mudanças. Acredito que essas competências, combinadas com minha paixão por tecnologia, me permitem contribuir de forma significativa em projetos desafiadores.
+Me chamo Felipe Venas Souza, tenho 19 anos e resido em Salvador. Atualmente, estou no quinto semestre de Ciência da Computação na Universidade Jorge Amado. 
 
 ---
 
