@@ -67,13 +67,15 @@ Me chamo Felipe Venas Souza, tenho 19 anos e resido em Salvador. Atualmente, est
     align="left" 
     alt="GitHub Stats" 
     height="200" 
+    weight="200"
     src="https://github-readme-stats.vercel.app/api?username=felipevenas&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="200"
+      weight="200"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipevenas&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
