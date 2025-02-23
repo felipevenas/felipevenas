@@ -64,7 +64,6 @@ Me chamo Felipe Venas Souza, tenho 19 anos e resido em Salvador. Atualmente, est
 
 <p>
   <img 
-    align="center" 
     alt="GitHub Stats" 
     height="200" 
     weight="200"
@@ -72,7 +71,6 @@ Me chamo Felipe Venas Souza, tenho 19 anos e resido em Salvador. Atualmente, est
   />
 
 <img 
-      align="center" 
       alt="GitHub Stats" 
       height="200"
       weight="200"
