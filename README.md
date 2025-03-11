@@ -2,7 +2,8 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Felipe Venas Souza, tenho 19 anos e resido em Salvador. Atualmente, estou no quinto semestre de Ciência da Computação na Universidade Jorge Amado. 
+Me chamo Felipe Venas Souza, tenho 19 anos e resido em Salvador. 
+Atualmente estou cursando Ciência da Computação (5/8) na Universidade Jorge Amado. 
 
 ---
 
