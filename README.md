@@ -1,80 +1,19 @@
-# Felipe Venas
+#  Felipe Venas
 
-**`Desenvolvedor Backend`**
+**`Back-end Developer`**
 
-Me chamo Felipe Venas Souza, tenho 19 anos e resido em Salvador. | Atualmente estou cursando Ciência da Computação (5/8) na Universidade Jorge Amado. 
-
----
-
-### Linguagens e Tecnologias
-
-<div style="display: inline_block">
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Sql" 
-    title="Sql"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-</div>
-
-<br/>
-<br/>
+Dedicated student focused on backend development, leveraging Java, Spring, and SQL to build efficient and scalable solutions. Combining technical expertise with proactiveness and fast-learning skills, I aim to contribute to challenging projects by applying coding best practices and security principles. Eager to collaborate with innovative teams and grow professionally in dynamic environments.
 
 ---
 
-### Estatísticas
+### Languages and Tools
 
-<p>
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    weight="200"
-    src="https://github-readme-stats.vercel.app/api?username=felipevenas&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-  />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/sql.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
 
-<img 
-      alt="GitHub Stats" 
-      height="200"
-      weight="200"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipevenas&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+<br/>
