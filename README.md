@@ -63,13 +63,13 @@ developer = {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU-USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipevenas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5"/>
   &nbsp;
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipevenas&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SEU-USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=7aa2f7&ring=7aa2f7&fire=ff9e64&currStreakLabel=c0caf5&sideLabels=c0caf5&dates=565f89"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=felipevenas&theme=tokyonight&hide_border=true&background=0d1117&stroke=7aa2f7&ring=7aa2f7&fire=ff9e64&currStreakLabel=c0caf5&sideLabels=c0caf5&dates=565f89"/>
 </div>
 
 ---
