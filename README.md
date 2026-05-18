@@ -4,22 +4,20 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=7AA2F7&center=true&vCenter=true&width=480&lines=Python+%7C+FastAPI+%7C+Flask;React+%7C+TypeScript;Java+%7C+Spring+Boot;Clean+code+%26+Security+principles" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=7AA2F7&center=true&vCenter=true&width=480&lines=Python+%7C+FastAPI+%7C+Flask;React+%7C+TypeScript;Clean+code+%26+Security+principles" alt="Typing SVG"/>
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://linkedin.com/in/SEU-LINKEDIN">
+  <a href="https://linkedin.com/in/felipevenas">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:SEU-EMAIL">
+  <a href="mailto:dev.felipevenas@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=SEU-USERNAME&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS"/>
 </div>
 
 ---
@@ -28,7 +26,7 @@
 
 ```python
 developer = {
-    "name":     "Felipe Venas",
+    "name":     "Felipe Venas Souza",
     "role":     "Fullstack Developer",
     "focus":    ["Backend APIs", "Frontend Interfaces", "Scalable Systems"],
     "values":   ["Clean Code", "Security First", "Continuous Learning"],
@@ -44,8 +42,6 @@ developer = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
 **Frontend**
 
@@ -60,7 +56,6 @@ developer = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
