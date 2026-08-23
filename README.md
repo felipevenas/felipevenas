@@ -80,27 +80,12 @@ class Developer:
 
 | Project | Description | Tech Stack | Status / Link |
 | :--- | :--- | :--- | :--- |
-| **[Aprendify](https://github.com/felipevenas)** | Uma plataforma inteligente para organizar e gerenciar estudos para o ENEM de forma otimizada. | `React` `TypeScript` `CSS3` | [Repo](https://github.com/felipevenas/aprendify) / [Production](http://aprendify.cloud/auth) |
+| **[Rate Limit Validator](https://github.com/felipevenas/rate-limit-validator)** | Software desktop de alta performance para validação de políticas de Rate Limit, testes de estresse e resiliência de APIs REST. | `Python` `PySide6 (Qt)` `Clean Architecture` | [Repo](https://github.com/felipevenas/rate-limit-validator) / [Releases](https://github.com/felipevenas/rate-limit-validator/releases) |
+| **[Price Tracker API](https://github.com/felipevenas/api-price-tracker)** | API assíncrona de alta performance para monitoramento de preços com web scraping resiliente (Selenium), Celery e Redis. | `FastAPI` `Python` `Celery` `Redis` `PostgreSQL` | [Repo](https://github.com/felipevenas/api-price-tracker) |
+| **[Price Tracker Web App](https://github.com/felipevenas/webapp-price-tracker)** | Interface web moderna e responsiva para monitoramento de preços de produtos com gráficos interativos e integração em tempo real. | `React` `TypeScript` `Tailwind CSS` `Recharts` | [Repo](https://github.com/felipevenas/webapp-price-tracker) |
+| **[Venas Oliveira Advocacia](https://github.com/felipevenas/landing-julia-venas)** | Site institucional moderno e responsivo para escritório de advocacia, com suporte a temas claro/escuro e animações fluidas. | `React` `TypeScript` `Tailwind CSS` `Framer Motion` | [Repo](https://github.com/felipevenas/landing-julia-venas) |
+| **[Aprendify](https://github.com/felipevenas/aprendify)** | Plataforma inteligente para organizar e gerenciar estudos para o ENEM de forma otimizada. | `React` `TypeScript` `CSS3` | [Repo](https://github.com/felipevenas/aprendify) / [Production](http://aprendify.cloud/auth) |
 | **[API Boilerplate](https://github.com/felipevenas/api-boilerplate)** | Boilerplate pronto para produção de APIs modernas, focado em alta performance, segurança e arquitetura escalável. | `FastAPI` `Python` `PostgreSQL` `Docker` | [Repo](https://github.com/felipevenas/api-boilerplate) |
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <img src="https://github-stats-extended.vercel.app/api?username=felipevenas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Felipe's GitHub Stats" height="195" />
-      </td>
-      <td width="50%" align="center" valign="top">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=felipevenas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="195" />
-      </td>
-    </tr>
-  </table>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=felipevenas&theme=tokyonight&hide_border=true&background=0d1117&stroke=7aa2f7&ring=7aa2f7&fire=ff9e64&currStreakLabel=c0caf5&sideLabels=c0caf5&dates=565f89" alt="GitHub Streak" height="195" />
-</div>
 
 ---
 
