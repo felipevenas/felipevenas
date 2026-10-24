@@ -1,93 +1,30 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:24283b&height=180&section=header&text=Felipe%20Venas&fontSize=48&fontColor=c0caf5&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer&descAlignY=60&descSize=18&descColor=7aa2f7"/>
-</div>
+# Felipe Venas
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=7AA2F7&center=true&vCenter=true&width=500&lines=Python+%7C+FastAPI+%7C+Flask;React+%7C+TypeScript;Clean+code+%26+Security+principles" alt="Typing SVG"/>
-  </a>
-</div>
+**`Fullstack Developer`**
 
-<div align="center">
-  <a href="https://linkedin.com/in/felipevenas" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:dev.felipevenas@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-</div>
+[LinkedIn](https://linkedin.com/in/felipevenas) · [Email](mailto:dev.felipevenas@gmail.com)
 
 ---
 
-### 👤 About Me
-
-```python
-from typing import List, Dict
-
-class Developer:
-    def __init__(self) -> None:
-        self.name: str = "Felipe Venas Souza"
-        self.role: str = "Fullstack Developer"
-        self.focus: List[str] = ["Robust Backend APIs", "Reactive Frontend Interfaces", "Scalable System Architecture"]
-        self.core_values: List[str] = ["Clean Code & SOLID", "Security First", "Continuous Improvement"]
-
-    def current_mission(self) -> str:
-        return "Developing highly secure, efficient and user-centered web applications."
-```
+Fullstack developer with 2 years of experience shipping production software, currently on the Software Development & Innovation team at Alcance Contabilidade, building APIs, integrations and workflow automations for real business operations. Backend-first with Python, FastAPI, Celery and Redis; frontend with React, TypeScript and Astro. I use AI agents daily to deliver faster without sacrificing quality. Driven by clean code, security and simplicity.
 
 ---
 
-### 🛠️ Tech Stack
+### 🧰 Languages and Tools
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💻 Backend Development</h4>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎨 Frontend Development</h4>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🗄️ Database & Storage</h4>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚙️ DevOps & Tools</h4>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Status / Link |
-| :--- | :--- | :--- | :--- |
-| **[Rate Limit Validator](https://github.com/felipevenas/rate-limit-validator)** | Software desktop de alta performance para validação de políticas de Rate Limit, testes de estresse e resiliência de APIs REST. | `Python` `PySide6 (Qt)` `Clean Architecture` | [Repo](https://github.com/felipevenas/rate-limit-validator) / [Releases](https://github.com/felipevenas/rate-limit-validator/releases) |
-| **[Price Tracker API](https://github.com/felipevenas/api-price-tracker)** | API assíncrona de alta performance para monitoramento de preços com web scraping resiliente (Selenium), Celery e Redis. | `FastAPI` `Python` `Celery` `Redis` `PostgreSQL` | [Repo](https://github.com/felipevenas/api-price-tracker) |
-| **[Price Tracker Web App](https://github.com/felipevenas/webapp-price-tracker)** | Interface web moderna e responsiva para monitoramento de preços de produtos com gráficos interativos e integração em tempo real. | `React` `TypeScript` `Tailwind CSS` `Recharts` | [Repo](https://github.com/felipevenas/webapp-price-tracker) |
-| **[Aprendify](https://github.com/felipevenas/aprendify)** | Plataforma inteligente para organizar e gerenciar estudos para o ENEM de forma otimizada. | `React` `TypeScript` `CSS3` | [Repo](https://github.com/felipevenas/aprendify) / [Production](http://aprendify.cloud/auth) |
-| **[API Boilerplate](https://github.com/felipevenas/api-boilerplate)** | Boilerplate pronto para produção de APIs modernas, focado em alta performance, segurança e arquitetura escalável. | `FastAPI` `Python` `PostgreSQL` `Docker` | [Repo](https://github.com/felipevenas/api-boilerplate) |
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24283b,50:1a1b27,100:0d1117&height=100&section=footer"/>
-</div>
+<img align="center" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<img align="center" alt="FastAPI" src="https://cdn.simpleicons.org/fastapi/009688" width="40" height="40"/>
+<img align="center" alt="Celery" src="https://cdn.simpleicons.org/celery/37814A" width="40" height="40"/>
+<img align="center" alt="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
+<img align="center" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img align="center" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+<img align="center" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+<img align="center" alt="Astro" src="https://cdn.simpleicons.org/astro/BC52EE" width="40" height="40"/>
+<img align="center" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+<img align="center" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+<img align="center" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+<img align="center" alt="SQLite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
+<img align="center" alt="Supabase" src="https://cdn.simpleicons.org/supabase/3FCF8E" width="40" height="40"/>
+<img align="center" alt="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40"/>
+<img align="center" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+<img align="center" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
