@@ -12,28 +12,8 @@ Fullstack developer moving into AI engineering. I build production backends and 
 ### About
 
 - **2+ years** shipping production software end to end. Delivered **10+ products and sites** — client platforms, institutional sites and my own products.
-- Backend-first with **Java 25 + Spring Boot 4** and **Python + FastAPI**: PostgreSQL with Flyway, JWT with rotating refresh tokens, idempotent webhooks, rate limiting and integration tests against real databases with Testcontainers. Frontend with **React, TypeScript and Astro**.
-- Shipping **LLM features in production**: rubric-based essay correction, question explanations, study-plan generation and video hook analysis — with model calls isolated in Edge Functions, quotas and cost controls.
-- Security and privacy by default: **row-level security**, LGPD-aware export and deletion flows, audit trails and encrypted secrets.
-
-### Building with AI
-
-| Project | What it does | AI in it |
-|---|---|---|
-| [**Aprendify**](https://github.com/felipevenas/aprendify) · [Live](https://aprendify.cloud) | ENEM prep platform: past-exam question bank, mock exams, TRI estimates, study schedule and Stripe billing. | Essay correction against the five official ENEM competencies, question explanations and study-plan generation with Groq (Llama 3.3 70B, GPT-OSS) inside Deno Edge Functions with quotas and rate limits. |
-| **eufelipedesign Omnichannel** *(private)* | CRM and content operations for eufelipedesign, a design studio: prospecting, WhatsApp outreach, client portfolio, finance and Kanban. | Gemini for video hook and retention analysis, plus an AI creative assistant with model and cost guardrails. |
-| **Agent-assisted delivery** *(private)* | My day-to-day setup for shipping with agents: specs, architecture review, QA and security passes, and PR/merge automation. | Claude Code and OpenCode with custom skills, subagents, MCP servers and persistent project memory. |
-
-### Products in production
-
-- [**DevRats**](https://github.com/felipevenas/api-dev-rats) ([web](https://github.com/felipevenas/webapp-dev-rats)): private consistency challenges for developers, with automatic GitHub commit verification, groups, rankings, streaks and real-time chat. Java 25, Spring Boot 4, PostgreSQL 17 and React 19. [Live](https://devrats.app)
-- **Monteiro Veloso Platform** *(private)*: authenticated legal-operations platform for a law firm — contract intake, client records, documents, roles and audit history. React 19, Supabase/PostgreSQL with RLS and a single Edge Function write gateway. [Live](https://app.monteiroveloso.com)
-- **Radar** *(private)*: multi-tenant outbound prospecting — Google Places discovery, lead enrichment and WhatsApp outreach through Evolution API, on an idempotent `pg_cron` pipeline with per-workspace quotas.
-
-### Public repositories
-
-- [**Price Tracker**](https://github.com/felipevenas/api-price-tracker) ([web](https://github.com/felipevenas/webapp-price-tracker)): price monitoring with target prices and history charts. FastAPI with Clean Architecture/DDD, Celery + Redis, Selenium Grid, PostgreSQL and JWT.
-- [**Rate Limit Validator**](https://github.com/felipevenas/rate-limit-validator): desktop tool for concurrency testing and rate-limit policy validation, built with Python and PySide6 and shipped as a standalone Windows executable.
+- Backend-first with **Java 25 + Spring Boot 4** and **Python + FastAPI**: PostgreSQL, JWT with rotating refresh tokens, idempotent webhooks, rate limiting and Testcontainers integration tests. Frontend with **React, TypeScript and Astro**. Security by default: **RLS**, LGPD-aware flows and audit trails.
+- Shipping **LLM features in production** — rubric-based essay correction, question explanations and video hook analysis — with model calls isolated in Edge Functions, quotas and cost controls.
 
 ### Tech Stack
 
@@ -76,6 +56,5 @@ Fullstack developer moving into AI engineering. I build production backends and 
 ### Currently
 
 - On the **Software Development & Innovation** team at **Alcance Contabilidade**, building APIs, integrations and workflow automations for accounting operations.
-- Building [**DevRats**](https://devrats.app): consistency challenges for developers with automatic GitHub commit verification, rankings and real-time chat.
-- Shipping client products end to end — internal operations platforms, institutional sites and AI features — on React, Supabase and Java/Spring Boot.
+- Building [**DevRats**](https://devrats.app) and shipping client products end to end — internal platforms, institutional sites and AI features.
 - Going deeper into AI engineering: prompt design, guardrails, cost and quota control, and agent-assisted development.
